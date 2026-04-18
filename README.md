@@ -138,7 +138,6 @@ streamlit run streamlit_app.py
 ![UI](outputs/ui_p4_2.png)
 ![UI](outputs/ui_p4_3.png)
 ![UI](outputs/ui_p4_4.png)
-```
 
 ---
 
